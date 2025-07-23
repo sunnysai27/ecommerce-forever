@@ -38,6 +38,12 @@ https://ecom-forever-admin.vercel.app
 
 ---
 
+## 🧪 Clone This Project
+
+git clone https://github.com/sunnysai27/ecommerce-forever.git
+
+---
+
 ## 🧾 Environment Variables
 
 Make sure to create a `.env` file in each of the following folders (`backend`, `frontend`, and `admin`) and add the required variables as shown below:
@@ -46,7 +52,7 @@ Make sure to create a `.env` file in each of the following folders (`backend`, `
 
 ### `frontend/.env`
 
-VITE_BACKEND_URL=http://localhost:4000
+VITE_BACKEND_URL=""
 
 --- 
 
@@ -65,8 +71,5 @@ ADMIN_PASSWORD = ""
 VITE_BACKEND_URL = ""
 
 
-## 🧪 Clone This Project
 
-git clone https://github.com/sunnysai27/ecommerce-forever.git
-cd ecommerce-forever
 
